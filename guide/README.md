@@ -17,7 +17,7 @@ Sounds good? Great! Let's get started, then.
 Alright, making a bot is cool and all, but there are some prerequisites to it. To create a bot with discord.js, you should have a fairly decent grasp of JavaScript itself.
 While you _can_ make a bot with very little JavaScript and programming knowledge, trying to do so without understanding the language first will only hinder you. You may get stuck on many uncomplicated issues, struggle with solutions to incredibly easy problems, and all-in-all end up frustrated. Sounds pretty annoying.
 
-If you don't know JavaScript but would like to learn about it, here are a few links to help get you started:
+If you don't know JavaScript but wou
 
 * [Eloquent JavaScript, a free online book](http://eloquentjavascript.net/)
 * [JavaScript.info, a modern javascript tutorial](https://javascript.info/)
